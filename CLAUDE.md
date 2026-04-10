@@ -8,5 +8,8 @@ Place descriptions and related content on a new line rather than inline, for hum
 
 Use indentation levels to show ownership and relationships between bullets:
 -- Top-level item
-  -- Child item (owned by or describing the item above)
-    -- Grandchild item (further detail or sub-property)
+	-- Child item (owned by or describing the item above)
+		-- Grandchild item (further detail or sub-property)
+
+Use tabs (not spaces) for indentation.
+Reason: some editors auto-convert spaces to tabs, causing inconsistent indentation if spaces are used.
