@@ -13,3 +13,8 @@ Use indentation levels to show ownership and relationships between bullets:
 
 Use tabs (not spaces) for indentation.
 Reason: some editors auto-convert spaces to tabs, causing inconsistent indentation if spaces are used.
+
+## Git
+
+Default branch is `master`, not `main`.
+-- When creating PRs or referencing the base branch, use `master` unless the repo explicitly uses a different default.
