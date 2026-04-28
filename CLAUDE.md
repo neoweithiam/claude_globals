@@ -14,6 +14,11 @@ Use indentation levels to show ownership and relationships between bullets:
 Use tabs (not spaces) for indentation.
 Reason: some editors auto-convert spaces to tabs, causing inconsistent indentation if spaces are used.
 
+## Responding to Questions
+
+When the user asks a question, answer it -- do not take action.
+-- You may offer options to action at the end of your answer, but do not implement anything unless the user explicitly asks.
+
 ## Git
 
 Default branch is `master`, not `main`.
